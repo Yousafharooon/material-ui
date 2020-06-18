@@ -260,3 +260,4 @@ workflows:
                 - next
     jobs:
       - test_types_next
+  Typescript-next.html
